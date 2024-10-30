@@ -19,7 +19,7 @@ The Original Compiler was made by [AboodXD](https://github.com/aboood40091)
 Wiiu RPX Tool was made by [0CBH0](https://github.com/0CBH0)
 
 ## Librarys needed
-glob 
-struct 
-subprocess 
-zlib
+- glob 
+- struct 
+- subprocess 
++ zlib
