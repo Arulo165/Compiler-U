@@ -22,4 +22,4 @@ Wiiu RPX Tool was made by [0CBH0](https://github.com/0CBH0)
 - glob 
 - struct 
 - subprocess 
-+ zlib
+- zlib
